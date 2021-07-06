@@ -8,8 +8,7 @@
 ----------------------
 ## Tools By: Suprax#0001
 
-### DDoS Tool
-#### https://github.com/team-lux/suprax-ddos
+### DDoS Tool - #### https://github.com/team-lux/suprax-ddos
 ### Lan IP Scanner
 #### https://github.com/team-lux/suprax-lan-scanner
 ### Discord Token Bruteforcer
