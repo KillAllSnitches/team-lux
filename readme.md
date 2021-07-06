@@ -4,7 +4,7 @@
 
 ### Discord Account Nuker - https://github.com/team-lux/vx-bane
 
-###Discord Message Masker - https://github.com/team-lux/vx-masker
+### Discord Message Masker - https://github.com/team-lux/vx-masker
 ----------------------
 ## Tools By: Suprax#0001
 
