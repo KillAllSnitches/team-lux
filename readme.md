@@ -1,4 +1,4 @@
-# Team Lux Tool List
+Team Lux Tool List
 ----------------------
 Tools By: VX#1234
 
