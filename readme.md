@@ -2,6 +2,8 @@
 ----------------------
 ## Tools By: VX#1234
 
+### Thief (Antifraud Pentesting) - https://github.com/team-lux/vx-thief
+
 ### Discord Account Nuker - https://github.com/team-lux/vx-bane
 
 ### Discord Message Masker - https://github.com/team-lux/vx-masker
